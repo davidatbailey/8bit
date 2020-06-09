@@ -1,0 +1,9 @@
+1MO.2:GC.16,0:F.a=0TO5.9ST..2:r=0:g=0:b=0:G.a+2
+2r=1:g=a:G.8
+3g=1:r=2-a:G.8
+4g=1:b=a-2:G.8
+5b=1:g=4-a:G.8
+6b=1:r=a-4:G.8
+7r=1:b=6-a:G.8
+8k=0:V.19+FNa(b,4*FNa(g,FNa(r,1))),2,k;k;k;k;:MOV.999+a*99,-300:PL.153,6^4-a*99,0:N.:END
+9DEFFNa(v,m):j=INT(v*6.7):p=INT(j/2):k=k+(p*255+j)*m:=4

@@ -1,0 +1,3 @@
+0MO.1:C.2:P."BBC Computer 32K"''"Acorn DFS"''"BASIC"''">_";:V.5,18,257;:MOV.0,1020:P.'"Windows has detected a problem ";:F.A=1TO4:F.B=1TO35*A:V.RND(24)+95,8,RND(3)+38,-32*(RND(8)<3)
+1N.:P."."':N.:P.'"STOP:";:F.C=1TO5:P." 0x";~RND;:N.:P.'''"Collecting crash dump...";:V.275;0;0;0;531;7;0;0;0;:A%=154:REP.:F.X%=16TO24:Q=USR-12:N.:U.TI.>3150:V.531;4;0;0;0;275;7;0;0;0;19;4;0;0;0;
+2G.2
