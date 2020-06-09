@@ -1,5 +1,6 @@
 # 8bit
-Minified BBC BASIC programs for running on JSBeeb and @bbcmicrobot
+Minified BBC BASIC programs for running on JSBeeb and @bbcmicrobot.  See the [wiki](https://github.com/davidatbailey/8bit/wiki) for instructions.
+
 
 # Examples:
 
