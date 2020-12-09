@@ -51,3 +51,9 @@ Minified BBC BASIC programs for running on JSBeeb and @bbcmicrobot.  See the [wi
 
 ## Cyber Punks
 ![Image Cyber Punks](/img/punks.gif)
+
+## Charset
+![Image Charset](/img/charset.gif)
+
+## Spectrum
+![Image Spectrum](/img/spectrum.gif)
