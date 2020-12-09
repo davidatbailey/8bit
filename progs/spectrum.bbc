@@ -1,0 +1,2 @@
+1MO.2:V.23;8202;0;0;0;:F.R%=1TO4:T=-.5+R%*.08:F.X%=0TO319:F.Y%=0TO255:GCOL1,-R%*(((X%-Y%*T-120)A.(X%*T+Y%-60))=0):PLOT69,X%*4,Y%*4:N.,,:REP.U..
+2REM @bbcmicrobot [Clapper board]
