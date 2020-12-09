@@ -10,6 +10,9 @@ Minified BBC BASIC programs for running on JSBeeb and @bbcmicrobot.  See the [wi
 ## Dither
 ![Image Dithered colours](/img/dither.gif)
 
+## Serpinski
+![Image Hex Dump](/img/serpinski.gif)
+
 ## Hex Dump
 ![Image Hex Dump](/img/hexdump.gif)
 
